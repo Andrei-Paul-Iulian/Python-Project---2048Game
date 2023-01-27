@@ -1,2 +1,2 @@
-# Python-Project---2048Game
-2048Game Python implementation
+# proiect-python
+Implementarea jocului 2048
